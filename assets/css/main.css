@@ -20,6 +20,8 @@
 
 	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
 		display: block;
+		color: black;
+		font-family: Lucida;
 	}
 
 	body {
@@ -1070,7 +1072,7 @@
 
 	body {
 		background: #252122;
-		
+		background-image: url("pic01.jpg");
 		font-family: 'Source Sans Pro';
 		font-weight: 300;
 		color: #5d5d5d;
