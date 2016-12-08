@@ -20,7 +20,7 @@
 
 	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
 		display: block;
-		color: black;
+		color: #8c0d26;
 		font-family: Lucida;
 	}
 
@@ -30,7 +30,7 @@
 
 	ol, ul {
 		list-style: none;
-		
+
 	}
 
 	blockquote, q {
