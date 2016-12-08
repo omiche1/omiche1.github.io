@@ -30,6 +30,7 @@
 
 	ol, ul {
 		list-style: none;
+		background-image: url("https://i.stack.imgur.com/cjXKj.png");
 	}
 
 	blockquote, q {
@@ -1072,7 +1073,7 @@
 
 	body {
 		background: #252122;
-		background-image: url("pic01.jpg");
+		background-image: url("images/bg02.png");
 		font-family: 'Source Sans Pro';
 		font-weight: 300;
 		color: #5d5d5d;
