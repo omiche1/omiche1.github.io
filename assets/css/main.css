@@ -1078,7 +1078,11 @@
 /* Basic */
 
 	body {
+<<<<<<< HEAD
 		background: #black;
+=======
+		background: #252122;
+>>>>>>> parent of 26739eb... background
 		background-image: url("images/bg02.png");
 		font-family: 'Source Sans Pro';
 		font-weight: 300;
