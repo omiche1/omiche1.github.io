@@ -2325,6 +2325,7 @@
 				-ms-transition: -ms-transform 0.5s ease;
 				transition: transform 0.5s ease;
 				padding-bottom: 1px;
+				background-image: -webkit-linear-gradient(left, black, #8e2525)
 			}
 
 			#titleBar {
