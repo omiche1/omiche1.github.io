@@ -1702,7 +1702,7 @@
 
 	#main-wrapper {
 		position: relative;
-		background: #f7f7f7 url("images/bg02.png");
+		background-image: -webkit-linear-gradient(left, black, #8e2525);
 	}
 
 		#main-wrapper:before {
@@ -1718,7 +1718,7 @@
 		}
 
 		#main-wrapper .major h2 {
-			background: #f7f7f7 url("images/bg02.png");
+			background-image: -webkit-linear-gradient(left, black, #8e2525);
 		}
 
 	#footer-wrapper {
