@@ -1900,6 +1900,7 @@
 
 			#header-wrapper {
 				padding: 4.5em 0 4em 0;
+				background-image: -webkit-linear-gradient(left, black, #8e2525);
 			}
 
 			#main-wrapper {
